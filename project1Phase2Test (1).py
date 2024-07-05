@@ -1,14 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 25 16:13:40 2023
-
-@author: Sriram Pemmaraju
-"""
-
 #-------------------------------------------------------
 from project1Phase2 import *
-#-------------------------------------------------------
 
 # main program
 cityList = []
