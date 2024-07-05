@@ -254,3 +254,5 @@ def main():
     
     facilities = locateFacilities(cityList, distanceList, 800)
     display(facilities, cityList, distanceList, coordList, "visualization800.kml")
+
+main()
