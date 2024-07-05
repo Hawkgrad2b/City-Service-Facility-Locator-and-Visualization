@@ -1,50 +1,20 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 29 08:15:29 2023
-
-@author: Sriram Pemmaraju
-"""
-
-###############################################################################
-#
-# Specification: This "helper" function extracts the city name and state name
-# from the given "city line" and returns these, concatenated in the correct
-# format, as a single string.
-#
-###############################################################################
+# extracts city name and state name as a string concatination
 def extractCityStateNames(line):
     pieces = line.split(",")
     return pieces[0] + pieces[1][:3]
 
-###############################################################################
-#
-# Specification: This "helper" function extracts the latitude and longitude
-# from the given "city line" and returns these, in a size-2 list of integers.
-#
-###############################################################################
+# extracts lattitude and longitude as two integers
 def extractCoordinates(line):
     pieces = line.split(",")
     return [int(pieces[1].split("[")[1]), int(pieces[2].split("]")[0])]
 
-
-###############################################################################
-#
-# Specification: This "helper" function extracts the city population
-# from the given "city line" and returns this an an integer.
-# 
-###############################################################################
+# extracts city location as an integer
 def extractPopulation(line):
     pieces = line.split(",")
     return int(pieces[2].split("]")[1])
 
-###############################################################################
-#
-# Specification: Reads information from the files "miles.dat" and loads the data
-# structures cityList, coordList, popList, and distanceList with this information.
-# Assumes that these 4 data structures are sent in empty.
-# 
-###############################################################################
+# loads data from miles.dat and uses previous functions to store data
+# into 4 passed in data structures
 def loadData(cityList, coordList, popList, distanceList):
     f = open("miles.dat")
     
@@ -82,31 +52,17 @@ def loadData(cityList, coordList, popList, distanceList):
         distanceList.append(distances[::-1])
             
 
-###############################################################################
-#
-# Specification: returns the coordinates (which is a list of 2 integers) of the 
-# given city. It assumes that the given city name is in cityList.
-#
-###############################################################################
+# returns integer coords of the passed in city
 def getCoordinates(cityList, coordList, name):
     return coordList[cityList.index(name)]
 
-###############################################################################
-#
-# Specification: returns the population (which is an integer) of the 
-# given city. It assumes that the given city name is in cityList.
-#
-###############################################################################
+
+# returns integer coords of the passed in city
 def getPopulation(cityList, popList, name):
     return popList[cityList.index(name)]
+   
 
-###############################################################################
-#
-# Specification: returns the distance (an int) between cities name1 and name2. 
-# If name1 and name2 are identical, return 0. It assumes that the given city names
-# city1 and city2 are both in cityList.
-#
-###############################################################################    
+# returns distance between two cities as an integer    
 def getDistance(cityList, distanceList, name1, name2):
     index1 = cityList.index(name1)
     index2 = cityList.index(name2)
@@ -118,69 +74,9 @@ def getDistance(cityList, distanceList, name1, name2):
     else:
         return distanceList[index1][index2]
 
-###############################################################################
-#
-# Specification: The function takes 4 arguments:
-#    
-# cityList: is a list of strings, representing names of cities.
-#
-# distanceList: contains distances between pairs of cities in cityist. 
-# distanceList has the same length as cityList and each element in distanceList
-# is itself a list. Furthermore, distanceList[i] is a list of length i, where
-# distanceList[i][j] (0 <= j <= i-1) represents the distance between cityList[i]
-# and cityList[j] . 
-#
-# --------------
-# EXAMPLE: cityList = ["X", "A", "B", "Z", "D"]
-# distanceList = [[], [95], [170, 125], [150, 80, 225], [110, 175, 210, 120]]
-#
-# Then distanceList[2] represents the distances between city "B" and cities "X"
-# and "A". More specifically, "X" is 170 miles from "B" and "A" is 125 miles from
-# "B". 
-#
-# Note that distances between city "B" and cities "Z" and "D" appear in 
-# distanceList[3][2] and distanceList[4][2] respectively. Thus the distance 
-# between city "B" and "Z" is 225 and between city "B" and "D" is 210.
-# --------------
-# 
-# name: is a name of a city; you can assume that name will be in cityList
-#
-# r: is a non-negative floating point number
-#
-# The function is required to return a list of cities at distance at most r
-# from the city name. This list should contain names of cities in the same order
-# as they appear in cityList.
-#
-# --------------
-# EXAMPLE: cityList = ["X", "A", "B", "Z", "D"]
-# distanceList = [[], [95], [170, 125], [150, 80, 225], [110, 175, 210, 120]]
-#
-# nearbyCities(cityList, distanceList, "B", 200) returns 
-# ['X', 'A']
-#
-# nearbyCities(cityList, distanceList, "B", 210) returns
-# ['X', 'A', 'D']
-#
-# nearbyCities(cityList, distanceList, "B", 500) returns
-# ['X', 'A', 'Z', 'D']
-#
-# nearbyCities(cityList, distanceList, "X", 150) returns
-# ['A', 'Z', 'D']
-#
-# nearbyCities(cityList, distanceList, "X", 0) returns
-# []
-#
-# nearbyCities(cityList, distanceList, "X", 170) returns
-# ['A', 'B', 'Z', 'D']
-#
-# nearbyCities(cityList, distanceList, "D", 170) returns
-# ['X', 'Z']
-#
-# nearbyCities(cityList, distanceList, "D", 175.5) returns
-# ['X', 'A', 'Z']
-# 
-###############################################################################
 
+# returns the list of cities nearby within the radius 'r' that is passed in 
+# as a parameter.
 def nearbyCities(cityList, distanceList, name, r):
 
     # The list result will eventually contain the names of cities
@@ -207,15 +103,9 @@ def nearbyCities(cityList, distanceList, name, r):
 
     return result
 
-###############################################################################
-#
-# Specification: returns the number of unserved cities within distance r of city. 
-# This number includes city itself, it has not been served.
-# served is a boolean list indicating which cities have been served. CityList is
-# the list of city names.
-# 
-###############################################################################
 
+# returns an integer that is the number of cities that are not within the
+# radius 'r', iterates through a boolean list, 'served'.
 def numNotserved(served, cityList, distanceList, name, r) :
     
     if served[cityList.index(name)]:
@@ -231,13 +121,9 @@ def numNotserved(served, cityList, distanceList, name, r) :
     return result
 
 
-###############################################################################
-#
-# Specification: Returns the name of the city that can serve the most as-yet-unserved 
-# cities within radius r. Returns None if all cities are served. If there is a tie,
-# this function returns the city that appears earliest in cityList 
-# 
-###############################################################################
+# returns a string 'facility' that is the name of the city that can serve
+# the most amount of facilities based on radius 'r'. If there is a tie,
+# the city that appears earliest is chosen.
 def nextFacility(served, cityList, distanceList, r) :
 
     facility = None      # Name of city that will be the next service facility
@@ -255,12 +141,9 @@ def nextFacility(served, cityList, distanceList, r) :
             numberServed = willBeServed
     return facility
 
-###############################################################################
-#
+
 # Returns an alphabetically sorted list of the cities in which facilities
 # must be located to service all cities with a service radius of r. '''
-# 
-###############################################################################
 def locateFacilities(cityList, distanceList, r) :
 
     # List of cities that are served by current facilities
@@ -290,17 +173,11 @@ def locateFacilities(cityList, distanceList, r) :
 
     return facilities
 
-# main program
+
+# loads nessesary data structures and runs main program
 cityList = []
 coordList = []
 popList = []
 distanceList = []
 
 loadData(cityList, coordList, popList, distanceList)
-
-
-
-#print(cityList)
-#print(coordList)
-#print(popList)
-#print(distanceList[0], distanceList[1], distanceList[2], distanceList[3])

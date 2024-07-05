@@ -1,42 +1,23 @@
-###############################################################################
-#
-# Specification: This "helper" function extracts the city name and state name
-# from the given "city line" and returns these, concatenated in the correct
-# format, as a single string.
-#
-###############################################################################
+# extracts city name and state name as a string concatination
 def extractCityStateNames(line):
     pieces = line.split(",")
     return pieces[0] + pieces[1][:3]
 
-###############################################################################
-#
-# Specification: This "helper" function extracts the latitude and longitude
-# from the given "city line" and returns these, in a size-2 list of integers.
-#
-###############################################################################
+
+# extracts lattitude and longitude as two integers
 def extractCoordinates(line):
     pieces = line.split(",")
     return [int(pieces[1].split("[")[1]), int(pieces[2].split("]")[0])]
 
 
-###############################################################################
-#
-# Specification: This "helper" function extracts the city population
-# from the given "city line" and returns this an an integer.
-# 
-###############################################################################
+# extracts city location as an integer
 def extractPopulation(line):
     pieces = line.split(",")
     return int(pieces[2].split("]")[1])
 
-###############################################################################
-#
-# Specification: Reads information from the files "miles.dat" and loads the data
-# structures cityList, coordList, popList, and distanceList with this information.
-# Assumes that these 4 data structures are sent in empty.
-# 
-###############################################################################
+
+# loads data from miles.dat and uses previous functions to store data
+# into 4 passed in data structures
 def loadData(cityList, coordList, popList, distanceList):
     f = open("miles.dat")
     
@@ -50,7 +31,7 @@ def loadData(cityList, coordList, popList, distanceList):
     # Reads from the file, one line at a time
     for line in f:
         
-        # Checks if the line is a "city line", i.e., contains information about
+        # Checks if the line is a "city line", contains information about
         # the city
         if line[0].isalpha():
             
@@ -64,7 +45,7 @@ def loadData(cityList, coordList, popList, distanceList):
             popList.append(extractPopulation(line))
             cityIndex = cityIndex + 1
         
-        # Checks if the line is a "distance line", i.e., contains information
+        # Checks if the line is a "distance line", contains information
         # distances from this city to previous cities            
         elif line[0].isdigit():
             distances.extend([int(x) for x in line.split()])
@@ -74,31 +55,17 @@ def loadData(cityList, coordList, popList, distanceList):
         distanceList.append(distances[::-1])
             
 
-###############################################################################
-#
-# Specification: returns the coordinates (which is a list of 2 integers) of the 
-# given city. It assumes that the given city name is in cityList.
-#
-###############################################################################
+# returns integer coords of the passed in city
 def getCoordinates(cityList, coordList, name):
     return coordList[cityList.index(name)]
 
-###############################################################################
-#
-# Specification: returns the population (which is an integer) of the 
-# given city. It assumes that the given city name is in cityList.
-#
-###############################################################################
+
+# returns integer coords of the passed in city
 def getPopulation(cityList, popList, name):
     return popList[cityList.index(name)]
 
-###############################################################################
-#
-# Specification: returns the distance (an int) between cities name1 and name2. 
-# If name1 and name2 are identical, return 0. It assumes that the given city names
-# city1 and city2 are both in cityList.
-#
-###############################################################################    
+
+# returns distance between two cities as an integer    
 def getDistance(cityList, distanceList, name1, name2):
     index1 = cityList.index(name1)
     index2 = cityList.index(name2)
@@ -110,21 +77,9 @@ def getDistance(cityList, distanceList, name1, name2):
     else:
         return distanceList[index1][index2]
 
-###############################################################################
-#
-# Specification: The function takes 4 arguments:
-#    
-# cityList: is a list of strings, representing names of cities.
-#
-# distanceList: contains distances between pairs of cities in cityist. 
-# distanceList has the same length as cityList and each element in distanceList
-# is itself a list. Furthermore, distanceList[i] is a list of length i, where
-# distanceList[i][j] (0 <= j <= i-1) represents the distance between cityList[i]
-# and cityList[j] . 
-#
-# --------------
-###############################################################################
 
+# returns the list of cities nearby within the radius 'r' that is passed in 
+# as a parameter.
 def nearbyCities(cityList, distanceList, name, r):
 
     # The list result will eventually contain the names of cities
