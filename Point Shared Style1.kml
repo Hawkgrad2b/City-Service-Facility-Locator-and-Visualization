@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="2">
+            <IconStyle id="4">
+                <colorMode>normal</colorMode>
+                <scale>5</scale>
+                <heading>0</heading>
+                <Icon id="5">
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="3">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="7">
+            <name>one</name>
+            <styleUrl>#2</styleUrl>
+            <Point id="6">
+                <coordinates>1,1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>two</name>
+            <styleUrl>#2</styleUrl>
+            <Point id="8">
+                <coordinates>2,2,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>three</name>
+            <styleUrl>#2</styleUrl>
+            <Point id="10">
+                <coordinates>3,3,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
