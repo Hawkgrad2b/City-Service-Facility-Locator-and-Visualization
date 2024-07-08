@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="263">
+        <Style id="264">
+            <IconStyle id="266">
+                <colorMode>normal</colorMode>
+                <scale>2</scale>
+                <heading>0</heading>
+                <Icon id="267">
+                    <href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle id="265">
+                <color>ff800080</color>
+                <colorMode>normal</colorMode>
+                <scale>1.5</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="269">
+            <name>Youngstown OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="268">
+                <coordinates>-80.65,41.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Yankton SD</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="270">
+                <coordinates>-97.39,42.88,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Yakima WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="272">
+                <coordinates>-120.51,46.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Worcester MA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="274">
+                <coordinates>-71.8,42.27,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Wisconsin Dells WI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="276">
+                <coordinates>-89.77,43.63,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Winston-Salem NC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="278">
+                <coordinates>-80.25,36.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Winnipeg MB</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="280">
+                <coordinates>-97.15,49.88,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Winchester VA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="282">
+                <coordinates>-78.16,39.19,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Wilmington NC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="284">
+                <coordinates>-77.92,34.24,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Wilmington DE</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="286">
+                <coordinates>-75.55,39.75,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Williston ND</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="288">
+                <coordinates>-103.62,48.15,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Williamsport PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="290">
+                <coordinates>-77.0,41.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Williamson WV</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="292">
+                <coordinates>-82.28,37.68,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Wichita Falls TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="294">
+                <coordinates>-98.49,33.9,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Wichita KS</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="296">
+                <coordinates>-97.34,37.69,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Wheeling WV</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="298">
+                <coordinates>-80.72,40.07,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>West Palm Beach FL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="300">
+                <coordinates>-80.05,26.72,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Wenatchee WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="302">
+                <coordinates>-120.32,47.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Weed CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="304">
+                <coordinates>-122.39,41.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Waycross GA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="306">
+                <coordinates>-82.35,31.22,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Wausau WI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="308">
+                <coordinates>-89.64,44.96,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Waukegan IL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="310">
+                <coordinates>-87.83,42.36,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Watertown SD</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="312">
+                <coordinates>-97.11,44.9,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Watertown NY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="314">
+                <coordinates>-75.92,43.98,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Waterloo IA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="316">
+                <coordinates>-92.34,42.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Waterbury CT</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="318">
+                <coordinates>-73.05,41.55,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Washington DC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="320">
+                <coordinates>-77.03,38.89,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Warren PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="322">
+                <coordinates>-79.14,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Walla Walla WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="324">
+                <coordinates>-118.33,46.07,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Waco TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="326">
+                <coordinates>-97.14,31.55,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Vincennes IN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="328">
+                <coordinates>-87.53,38.68,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Victoria TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="330">
+                <coordinates>-97.01,28.81,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Vicksburg MS</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="332">
+                <coordinates>-90.88,32.35,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Vancouver BC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="334">
+                <coordinates>-123.12,49.27,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Valley City ND</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="336">
+                <coordinates>-98.01,46.92,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Valdosta GA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="338">
+                <coordinates>-83.28,30.83,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Utica NY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="340">
+                <coordinates>-75.23,43.11,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Uniontown PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="342">
+                <coordinates>-79.73,39.9,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Tyler TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="344">
+                <coordinates>-95.3,32.35,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Twin Falls ID</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="346">
+                <coordinates>-114.47,42.56,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Tuscaloosa AL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="348">
+                <coordinates>-87.57,33.21,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Tupelo MS</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="350">
+                <coordinates>-88.71,34.26,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Tulsa OK</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="352">
+                <coordinates>-95.91,36.16,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Tucson AZ</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="354">
+                <coordinates>-110.97,32.22,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Trinidad CO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="356">
+                <coordinates>-104.51,37.17,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Trenton NJ</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="358">
+                <coordinates>-74.77,40.23,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Traverse City MI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="360">
+                <coordinates>-85.63,44.76,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Toronto ON</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="362">
+                <coordinates>-79.38,43.65,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Topeka KS</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="364">
+                <coordinates>-95.67,39.05,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Toledo OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="366">
+                <coordinates>-83.54,41.65,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Texarkana TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="368">
+                <coordinates>-94.05,33.43,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Terre Haute IN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="370">
+                <coordinates>-87.41,39.47,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Tampa FL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="372">
+                <coordinates>-82.45,27.95,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Tallahassee FL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="374">
+                <coordinates>-84.28,30.45,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Tacoma WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="376">
+                <coordinates>-122.43,47.24,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Syracuse NY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="378">
+                <coordinates>-76.15,43.05,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Swainsboro GA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="380">
+                <coordinates>-82.34,32.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Sumter SC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="382">
+                <coordinates>-80.35,33.92,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Stroudsburg PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="384">
+                <coordinates>-75.19,40.99,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Stockton CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="386">
+                <coordinates>-121.29,37.96,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>Stevens Point WI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="388">
+                <coordinates>-89.57,44.52,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>Steubenville OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="390">
+                <coordinates>-80.62,40.36,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>Sterling CO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="392">
+                <coordinates>-103.22,40.62,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Staunton VA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="394">
+                <coordinates>-79.07,38.15,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Springfield OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="396">
+                <coordinates>-83.81,39.92,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Springfield MO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="398">
+                <coordinates>-93.29,37.22,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Springfield MA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="400">
+                <coordinates>-72.59,42.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Springfield IL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="402">
+                <coordinates>-89.65,39.8,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Spokane WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="404">
+                <coordinates>-117.41,47.67,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>South Bend IN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="406">
+                <coordinates>-86.25,41.68,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Sioux Falls SD</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="408">
+                <coordinates>-96.73,43.54,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Sioux City IA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="410">
+                <coordinates>-96.39,42.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Shreveport LA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="412">
+                <coordinates>-93.75,32.51,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Sherman TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="414">
+                <coordinates>-96.61,33.64,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Sheridan WY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="416">
+                <coordinates>-106.96,44.8,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>Seminole OK</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="418">
+                <coordinates>-96.68,35.23,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Selma AL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="420">
+                <coordinates>-87.02,32.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Sedalia MO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="422">
+                <coordinates>-93.23,38.71,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>Seattle WA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="424">
+                <coordinates>-122.33,47.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Scranton PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="426">
+                <coordinates>-75.67,41.41,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Scottsbluff NE</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="428">
+                <coordinates>-103.66,41.87,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>Schenectady NY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="430">
+                <coordinates>-73.95,42.82,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Savannah GA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="432">
+                <coordinates>-81.09,32.08,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Sault Sainte Marie MI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="434">
+                <coordinates>-84.35,46.49,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Sarasota FL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="436">
+                <coordinates>-82.53,27.34,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>Santa Rosa CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="438">
+                <coordinates>-122.72,38.44,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Santa Fe NM</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="440">
+                <coordinates>-105.95,35.68,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>Santa Barbara CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="442">
+                <coordinates>-119.7,34.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>Santa Ana CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="444">
+                <coordinates>-117.87,33.76,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>San Jose CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="446">
+                <coordinates>-121.88,37.34,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>San Francisco CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="448">
+                <coordinates>-122.42,37.78,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Sandusky OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="450">
+                <coordinates>-82.71,41.45,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>San Diego CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="452">
+                <coordinates>-117.15,32.71,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>San Bernardino CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="454">
+                <coordinates>-117.31,34.11,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>San Antonio TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="456">
+                <coordinates>-98.5,29.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>San Angelo TX</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="458">
+                <coordinates>-100.44,31.46,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>Salt Lake City UT</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="460">
+                <coordinates>-111.88,40.76,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>Salisbury MD</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="462">
+                <coordinates>-75.6,38.37,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Salinas CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="464">
+                <coordinates>-121.65,36.67,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>Salina KS</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="466">
+                <coordinates>-97.61,38.84,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>Salida CO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="468">
+                <coordinates>-106.0,38.53,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Salem OR</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="470">
+                <coordinates>-123.03,44.94,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Saint Paul MN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="472">
+                <coordinates>-93.1,44.95,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>Saint Louis MO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="474">
+                <coordinates>-90.19,38.62,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Saint Joseph MO</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="476">
+                <coordinates>-94.84,39.77,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Saint Joseph MI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="478">
+                <coordinates>-86.48,42.1,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Saint Johnsbury VT</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="480">
+                <coordinates>-72.02,44.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Saint Cloud MN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="482">
+                <coordinates>-94.17,45.57,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>Saint Augustine FL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="484">
+                <coordinates>-81.32,29.89,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>Saginaw MI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="486">
+                <coordinates>-83.94,43.43,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>Sacramento CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="488">
+                <coordinates>-121.49,38.59,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>Rutland VT</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="490">
+                <coordinates>-72.97,43.61,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Roswell NM</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="492">
+                <coordinates>-104.53,33.4,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>Rocky Mount NC</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="494">
+                <coordinates>-77.8,35.94,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>Rock Springs WY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="496">
+                <coordinates>-109.23,41.59,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>Rockford IL</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="498">
+                <coordinates>-89.1,42.27,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>Rochester NY</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="500">
+                <coordinates>-77.61,43.16,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>Rochester MN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="502">
+                <coordinates>-92.46,44.02,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>Roanoke VA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="504">
+                <coordinates>-79.94,37.27,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Richmond VA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="506">
+                <coordinates>-77.45,37.54,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>Richmond IN</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="508">
+                <coordinates>-84.89,39.83,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>Richfield UT</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="510">
+                <coordinates>-112.09,38.77,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>Rhinelander WI</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="512">
+                <coordinates>-89.42,45.64,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>Reno NV</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="514">
+                <coordinates>-119.81,39.52,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>Regina SK</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="516">
+                <coordinates>-104.65,50.42,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>Red Bluff CA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="518">
+                <coordinates>-122.24,40.18,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Reading PA</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="520">
+                <coordinates>-75.93,40.33,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>Ravenna OH</name>
+            <styleUrl>#264</styleUrl>
+            <Point id="522">
+                <coordinates>-81.24,41.16,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

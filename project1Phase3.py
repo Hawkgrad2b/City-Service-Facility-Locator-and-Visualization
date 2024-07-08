@@ -1,3 +1,5 @@
+import simplekml
+
 def extractCityStateNames(line):
     pieces = line.split(",")
     return pieces[0] + pieces[1][:3]
@@ -165,21 +167,25 @@ def getDistance(cityList, distanceList, name1, name2):
 
 def placeBallons(facilities, cityList, coordList, f):
 
-    
+    kml = simplekml.Kml()
+    style = simplekml.Style()
+    style.labelstyle.color = simplekml.Color.purple  # Make the text red
+    style.labelstyle.scale = 1.5
+    style.iconstyle.icon.href = 'https://maps.google.com/mapfiles/kml/pal3/icon21.png'
+    style.iconstyle.scale = 2
+
     for i in range(len(cityList)):
-        f.write('<Placemark>')
-        # string concatenation
-        f.write('<name>'+cityList[i]+'</name>')
-        f.write('<Point>')
+        pnt = kml.newpoint(name= cityList[i])
 
-        # getting correct version of coordinates
-        formattedLong = '-'+str(coordList[i][1])[:-2]+'.'+str(coordList[i][1])[-2:]
-        formattedLat = str(coordList[i][0])[:-2]+'.'+str(coordList[i][0])[-2:]
+        latitude = coordList[i][0] / 100.0
+        longitude = coordList[i][1] / 100.0
+
+        latitude = round(latitude, 2)
+        longitude = round(longitude, 2)
         
-        f.write('<coordinates>'+formattedLong+','+formattedLat+',0</coordinates>')
-        f.write('</Point>')
-        f.write('</Placemark>')
-
+        pnt.coords = [(-longitude, latitude)]
+        pnt.style = style
+    kml.save("visualization3002.kml")
 
 def drawLines(cityList, distanceList, facilities, coordList, f):
     
