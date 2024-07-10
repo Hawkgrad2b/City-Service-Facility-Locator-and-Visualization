@@ -169,9 +169,9 @@ def placeBallons(facilities, cityList, coordList, kml):
 
     style = simplekml.Style()
     style.labelstyle.color = simplekml.Color.purple
-    style.labelstyle.scale = 1.5
+    style.labelstyle.scale = 1
     style.iconstyle.icon.href = 'https://maps.google.com/mapfiles/kml/pal3/icon21.png'
-    style.iconstyle.scale = 2
+    style.iconstyle.scale = 1.5
 
     for i in range(len(cityList)):
         pnt = kml.newpoint(name= cityList[i])
