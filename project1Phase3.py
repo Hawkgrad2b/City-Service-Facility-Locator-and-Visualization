@@ -165,11 +165,10 @@ def getDistance(cityList, distanceList, name1, name2):
         return distanceList[index1][index2]
 
 
-def placeBallons(facilities, cityList, coordList, f):
+def placeBallons(facilities, cityList, coordList, kml):
 
-    kml = simplekml.Kml()
     style = simplekml.Style()
-    style.labelstyle.color = simplekml.Color.purple  # Make the text red
+    style.labelstyle.color = simplekml.Color.purple
     style.labelstyle.scale = 1.5
     style.iconstyle.icon.href = 'https://maps.google.com/mapfiles/kml/pal3/icon21.png'
     style.iconstyle.scale = 2
@@ -185,16 +184,8 @@ def placeBallons(facilities, cityList, coordList, f):
         
         pnt.coords = [(-longitude, latitude)]
         pnt.style = style
-    kml.save("visualization3002.kml")
 
-def drawLines(cityList, distanceList, facilities, coordList, f):
-    
-    #f.write('<style id="blackLine">')
-    #f.write('<LineStyle>'>
-    #f.write('<color>ff0000ff</color>'>
-    #f.write('<width>25</width>')
-    #f.write('</LineStyle>')
-    #f.write('</style>')
+def drawLines(cityList, distanceList, facilities, coordList, kml):
     
     for city in cityList: 
         
@@ -212,38 +203,27 @@ def drawLines(cityList, distanceList, facilities, coordList, f):
                 bestFacility = facility 
                 
                 
-            facilLong = '-'+str(coordList[cityList.index(bestFacility)][1])[:-2]+'.'+str(coordList[cityList.index(bestFacility)][1])[-2:]
-     
-            facilLat = str(coordList[cityList.index(bestFacility)][0])[:-2]+'.'+str(coordList[cityList.index(bestFacility)][0])[-2:]
-            
-            cityLong = '-'+str(coordList[cityList.index(city)][1])[:-2]+'.'+str(coordList[cityList.index(city)][1])[-2:]
-            
-            cityLat = str(coordList[cityList.index(city)][0])[:-2]+'.'+str(coordList[cityList.index(city)][0])[-2:]
-     
-        
-        # let's hardcode our line connection (don't hardcode for phase 3!)
-        f.write('<Placemark>')
-        f.write('<name>Edge 1</name>')
-        f.write('<styleUrl>#blackLine</styleUrl>')
-        f.write('<LineString>')
-        f.write('<coordinates>'+cityLong+','+cityLat+',0,'+facilLong+','+facilLat+',0</coordinates>')
-        f.write('</LineString>')
-        f.write('</Placemark>')
-        
+            facility_index = cityList.index(bestFacility)
+            city_index = cityList.index(city) 
+
+            facilityLongitude = -coordList[facility_index][1] / 100.0
+            facilityLatitude = coordList[facility_index][0] / 100.0
+
+            cityLongitude = -coordList[city_index][1] / 100.0
+            cityLatitude = coordList[city_index][0] / 100.0
+
+        line = kml.newlinestring(name= f"{city} to {facility}")
+        line.coords = [(cityLongitude,cityLatitude),(facilityLongitude, facilityLatitude)]
     
     
 def display(facilities, cityList, distanceList, coordList, filename):
     
-    f = open(filename, "w")
+    kml = simplekml.Kml()    
     
-    f.write('<Document>')
+    placeBallons(facilities, cityList, coordList, kml)
+    drawLines(cityList, distanceList, facilities, coordList, kml)
     
-    
-    placeBallons(facilities, cityList, coordList, f)
-    drawLines(cityList, distanceList, facilities, coordList, f)
-    
-    f.write('</Document>')
-    f.close()
+    kml.save(filename)
     
     
 def main():
