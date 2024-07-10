@@ -214,6 +214,7 @@ def drawLines(cityList, distanceList, facilities, coordList, kml):
 
         line = kml.newlinestring(name= f"{city} to {facility}")
         line.coords = [(cityLongitude,cityLatitude),(facilityLongitude, facilityLatitude)]
+        line.style.linestyle.color = '990000ff'
     
     
 def display(facilities, cityList, distanceList, coordList, filename):

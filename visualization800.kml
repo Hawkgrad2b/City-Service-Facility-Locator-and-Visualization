@@ -1,1682 +1,2578 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="519">
-        <Style id="520">
-            <IconStyle id="522">
+    <Document id="775">
+        <Style id="776">
+            <IconStyle id="778">
                 <colorMode>normal</colorMode>
                 <scale>2</scale>
                 <heading>0</heading>
-                <Icon id="523">
+                <Icon id="779">
                     <href>https://maps.google.com/mapfiles/kml/pal3/icon21.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="521">
+            <LabelStyle id="777">
                 <color>ff800080</color>
                 <colorMode>normal</colorMode>
                 <scale>1.5</scale>
             </LabelStyle>
         </Style>
-        <Placemark id="525">
+        <Style id="1038">
+            <LineStyle id="1039">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1042">
+            <LineStyle id="1043">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1046">
+            <LineStyle id="1047">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1050">
+            <LineStyle id="1051">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1054">
+            <LineStyle id="1055">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1058">
+            <LineStyle id="1059">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1062">
+            <LineStyle id="1063">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1066">
+            <LineStyle id="1067">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1070">
+            <LineStyle id="1071">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1074">
+            <LineStyle id="1075">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1078">
+            <LineStyle id="1079">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1082">
+            <LineStyle id="1083">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1086">
+            <LineStyle id="1087">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1090">
+            <LineStyle id="1091">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1094">
+            <LineStyle id="1095">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1098">
+            <LineStyle id="1099">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1102">
+            <LineStyle id="1103">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1106">
+            <LineStyle id="1107">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1110">
+            <LineStyle id="1111">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1114">
+            <LineStyle id="1115">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1118">
+            <LineStyle id="1119">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1122">
+            <LineStyle id="1123">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1126">
+            <LineStyle id="1127">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1130">
+            <LineStyle id="1131">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1134">
+            <LineStyle id="1135">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1138">
+            <LineStyle id="1139">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1142">
+            <LineStyle id="1143">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1146">
+            <LineStyle id="1147">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1150">
+            <LineStyle id="1151">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1154">
+            <LineStyle id="1155">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1158">
+            <LineStyle id="1159">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1162">
+            <LineStyle id="1163">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1166">
+            <LineStyle id="1167">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1170">
+            <LineStyle id="1171">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1174">
+            <LineStyle id="1175">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1178">
+            <LineStyle id="1179">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1182">
+            <LineStyle id="1183">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1186">
+            <LineStyle id="1187">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1190">
+            <LineStyle id="1191">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1194">
+            <LineStyle id="1195">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1198">
+            <LineStyle id="1199">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1202">
+            <LineStyle id="1203">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1206">
+            <LineStyle id="1207">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1210">
+            <LineStyle id="1211">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1214">
+            <LineStyle id="1215">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1218">
+            <LineStyle id="1219">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1222">
+            <LineStyle id="1223">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1226">
+            <LineStyle id="1227">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1230">
+            <LineStyle id="1231">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1234">
+            <LineStyle id="1235">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1238">
+            <LineStyle id="1239">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1242">
+            <LineStyle id="1243">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1246">
+            <LineStyle id="1247">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1250">
+            <LineStyle id="1251">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1254">
+            <LineStyle id="1255">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1258">
+            <LineStyle id="1259">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1262">
+            <LineStyle id="1263">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1266">
+            <LineStyle id="1267">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1270">
+            <LineStyle id="1271">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1274">
+            <LineStyle id="1275">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1278">
+            <LineStyle id="1279">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1282">
+            <LineStyle id="1283">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1286">
+            <LineStyle id="1287">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1290">
+            <LineStyle id="1291">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1294">
+            <LineStyle id="1295">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1298">
+            <LineStyle id="1299">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1302">
+            <LineStyle id="1303">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1306">
+            <LineStyle id="1307">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1310">
+            <LineStyle id="1311">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1314">
+            <LineStyle id="1315">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1318">
+            <LineStyle id="1319">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1322">
+            <LineStyle id="1323">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1326">
+            <LineStyle id="1327">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1330">
+            <LineStyle id="1331">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1334">
+            <LineStyle id="1335">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1338">
+            <LineStyle id="1339">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1342">
+            <LineStyle id="1343">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1346">
+            <LineStyle id="1347">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1350">
+            <LineStyle id="1351">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1354">
+            <LineStyle id="1355">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1358">
+            <LineStyle id="1359">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1362">
+            <LineStyle id="1363">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1366">
+            <LineStyle id="1367">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1370">
+            <LineStyle id="1371">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1374">
+            <LineStyle id="1375">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1378">
+            <LineStyle id="1379">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1382">
+            <LineStyle id="1383">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1386">
+            <LineStyle id="1387">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1390">
+            <LineStyle id="1391">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1394">
+            <LineStyle id="1395">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1398">
+            <LineStyle id="1399">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1402">
+            <LineStyle id="1403">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1406">
+            <LineStyle id="1407">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1410">
+            <LineStyle id="1411">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1414">
+            <LineStyle id="1415">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1418">
+            <LineStyle id="1419">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1422">
+            <LineStyle id="1423">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1426">
+            <LineStyle id="1427">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1430">
+            <LineStyle id="1431">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1434">
+            <LineStyle id="1435">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1438">
+            <LineStyle id="1439">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1442">
+            <LineStyle id="1443">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1446">
+            <LineStyle id="1447">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1450">
+            <LineStyle id="1451">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1454">
+            <LineStyle id="1455">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1458">
+            <LineStyle id="1459">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1462">
+            <LineStyle id="1463">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1466">
+            <LineStyle id="1467">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1470">
+            <LineStyle id="1471">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1474">
+            <LineStyle id="1475">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1478">
+            <LineStyle id="1479">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1482">
+            <LineStyle id="1483">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1486">
+            <LineStyle id="1487">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1490">
+            <LineStyle id="1491">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1494">
+            <LineStyle id="1495">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1498">
+            <LineStyle id="1499">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1502">
+            <LineStyle id="1503">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1506">
+            <LineStyle id="1507">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1510">
+            <LineStyle id="1511">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1514">
+            <LineStyle id="1515">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1518">
+            <LineStyle id="1519">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1522">
+            <LineStyle id="1523">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1526">
+            <LineStyle id="1527">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1530">
+            <LineStyle id="1531">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1534">
+            <LineStyle id="1535">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1538">
+            <LineStyle id="1539">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1542">
+            <LineStyle id="1543">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="1546">
+            <LineStyle id="1547">
+                <color>990000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Placemark id="781">
             <name>Youngstown OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="524">
+            <styleUrl>#776</styleUrl>
+            <Point id="780">
                 <coordinates>-80.65,41.1,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="527">
+        <Placemark id="783">
             <name>Yankton SD</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="526">
+            <styleUrl>#776</styleUrl>
+            <Point id="782">
                 <coordinates>-97.39,42.88,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="529">
+        <Placemark id="785">
             <name>Yakima WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="528">
+            <styleUrl>#776</styleUrl>
+            <Point id="784">
                 <coordinates>-120.51,46.6,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="531">
+        <Placemark id="787">
             <name>Worcester MA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="530">
+            <styleUrl>#776</styleUrl>
+            <Point id="786">
                 <coordinates>-71.8,42.27,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="533">
+        <Placemark id="789">
             <name>Wisconsin Dells WI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="532">
+            <styleUrl>#776</styleUrl>
+            <Point id="788">
                 <coordinates>-89.77,43.63,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="535">
+        <Placemark id="791">
             <name>Winston-Salem NC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="534">
+            <styleUrl>#776</styleUrl>
+            <Point id="790">
                 <coordinates>-80.25,36.1,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="537">
+        <Placemark id="793">
             <name>Winnipeg MB</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="536">
+            <styleUrl>#776</styleUrl>
+            <Point id="792">
                 <coordinates>-97.15,49.88,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="539">
+        <Placemark id="795">
             <name>Winchester VA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="538">
+            <styleUrl>#776</styleUrl>
+            <Point id="794">
                 <coordinates>-78.16,39.19,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="541">
+        <Placemark id="797">
             <name>Wilmington NC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="540">
+            <styleUrl>#776</styleUrl>
+            <Point id="796">
                 <coordinates>-77.92,34.24,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="543">
+        <Placemark id="799">
             <name>Wilmington DE</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="542">
+            <styleUrl>#776</styleUrl>
+            <Point id="798">
                 <coordinates>-75.55,39.75,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="545">
+        <Placemark id="801">
             <name>Williston ND</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="544">
+            <styleUrl>#776</styleUrl>
+            <Point id="800">
                 <coordinates>-103.62,48.15,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="547">
+        <Placemark id="803">
             <name>Williamsport PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="546">
+            <styleUrl>#776</styleUrl>
+            <Point id="802">
                 <coordinates>-77.0,41.25,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="549">
+        <Placemark id="805">
             <name>Williamson WV</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="548">
+            <styleUrl>#776</styleUrl>
+            <Point id="804">
                 <coordinates>-82.28,37.68,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="551">
+        <Placemark id="807">
             <name>Wichita Falls TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="550">
+            <styleUrl>#776</styleUrl>
+            <Point id="806">
                 <coordinates>-98.49,33.9,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="553">
+        <Placemark id="809">
             <name>Wichita KS</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="552">
+            <styleUrl>#776</styleUrl>
+            <Point id="808">
                 <coordinates>-97.34,37.69,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="555">
+        <Placemark id="811">
             <name>Wheeling WV</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="554">
+            <styleUrl>#776</styleUrl>
+            <Point id="810">
                 <coordinates>-80.72,40.07,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="557">
+        <Placemark id="813">
             <name>West Palm Beach FL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="556">
+            <styleUrl>#776</styleUrl>
+            <Point id="812">
                 <coordinates>-80.05,26.72,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="559">
+        <Placemark id="815">
             <name>Wenatchee WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="558">
+            <styleUrl>#776</styleUrl>
+            <Point id="814">
                 <coordinates>-120.32,47.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="561">
+        <Placemark id="817">
             <name>Weed CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="560">
+            <styleUrl>#776</styleUrl>
+            <Point id="816">
                 <coordinates>-122.39,41.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="563">
+        <Placemark id="819">
             <name>Waycross GA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="562">
+            <styleUrl>#776</styleUrl>
+            <Point id="818">
                 <coordinates>-82.35,31.22,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="565">
+        <Placemark id="821">
             <name>Wausau WI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="564">
+            <styleUrl>#776</styleUrl>
+            <Point id="820">
                 <coordinates>-89.64,44.96,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="567">
+        <Placemark id="823">
             <name>Waukegan IL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="566">
+            <styleUrl>#776</styleUrl>
+            <Point id="822">
                 <coordinates>-87.83,42.36,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="569">
+        <Placemark id="825">
             <name>Watertown SD</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="568">
+            <styleUrl>#776</styleUrl>
+            <Point id="824">
                 <coordinates>-97.11,44.9,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="571">
+        <Placemark id="827">
             <name>Watertown NY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="570">
+            <styleUrl>#776</styleUrl>
+            <Point id="826">
                 <coordinates>-75.92,43.98,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="573">
+        <Placemark id="829">
             <name>Waterloo IA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="572">
+            <styleUrl>#776</styleUrl>
+            <Point id="828">
                 <coordinates>-92.34,42.5,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="575">
+        <Placemark id="831">
             <name>Waterbury CT</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="574">
+            <styleUrl>#776</styleUrl>
+            <Point id="830">
                 <coordinates>-73.05,41.55,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="577">
+        <Placemark id="833">
             <name>Washington DC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="576">
+            <styleUrl>#776</styleUrl>
+            <Point id="832">
                 <coordinates>-77.03,38.89,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="579">
+        <Placemark id="835">
             <name>Warren PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="578">
+            <styleUrl>#776</styleUrl>
+            <Point id="834">
                 <coordinates>-79.14,41.85,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="581">
+        <Placemark id="837">
             <name>Walla Walla WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="580">
+            <styleUrl>#776</styleUrl>
+            <Point id="836">
                 <coordinates>-118.33,46.07,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="583">
+        <Placemark id="839">
             <name>Waco TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="582">
+            <styleUrl>#776</styleUrl>
+            <Point id="838">
                 <coordinates>-97.14,31.55,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="585">
+        <Placemark id="841">
             <name>Vincennes IN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="584">
+            <styleUrl>#776</styleUrl>
+            <Point id="840">
                 <coordinates>-87.53,38.68,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="587">
+        <Placemark id="843">
             <name>Victoria TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="586">
+            <styleUrl>#776</styleUrl>
+            <Point id="842">
                 <coordinates>-97.01,28.81,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="589">
+        <Placemark id="845">
             <name>Vicksburg MS</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="588">
+            <styleUrl>#776</styleUrl>
+            <Point id="844">
                 <coordinates>-90.88,32.35,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="591">
+        <Placemark id="847">
             <name>Vancouver BC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="590">
+            <styleUrl>#776</styleUrl>
+            <Point id="846">
                 <coordinates>-123.12,49.27,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="593">
+        <Placemark id="849">
             <name>Valley City ND</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="592">
+            <styleUrl>#776</styleUrl>
+            <Point id="848">
                 <coordinates>-98.01,46.92,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="595">
+        <Placemark id="851">
             <name>Valdosta GA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="594">
+            <styleUrl>#776</styleUrl>
+            <Point id="850">
                 <coordinates>-83.28,30.83,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="597">
+        <Placemark id="853">
             <name>Utica NY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="596">
+            <styleUrl>#776</styleUrl>
+            <Point id="852">
                 <coordinates>-75.23,43.11,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="599">
+        <Placemark id="855">
             <name>Uniontown PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="598">
+            <styleUrl>#776</styleUrl>
+            <Point id="854">
                 <coordinates>-79.73,39.9,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="601">
+        <Placemark id="857">
             <name>Tyler TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="600">
+            <styleUrl>#776</styleUrl>
+            <Point id="856">
                 <coordinates>-95.3,32.35,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="603">
+        <Placemark id="859">
             <name>Twin Falls ID</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="602">
+            <styleUrl>#776</styleUrl>
+            <Point id="858">
                 <coordinates>-114.47,42.56,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="605">
+        <Placemark id="861">
             <name>Tuscaloosa AL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="604">
+            <styleUrl>#776</styleUrl>
+            <Point id="860">
                 <coordinates>-87.57,33.21,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="607">
+        <Placemark id="863">
             <name>Tupelo MS</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="606">
+            <styleUrl>#776</styleUrl>
+            <Point id="862">
                 <coordinates>-88.71,34.26,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="609">
+        <Placemark id="865">
             <name>Tulsa OK</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="608">
+            <styleUrl>#776</styleUrl>
+            <Point id="864">
                 <coordinates>-95.91,36.16,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="611">
+        <Placemark id="867">
             <name>Tucson AZ</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="610">
+            <styleUrl>#776</styleUrl>
+            <Point id="866">
                 <coordinates>-110.97,32.22,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="613">
+        <Placemark id="869">
             <name>Trinidad CO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="612">
+            <styleUrl>#776</styleUrl>
+            <Point id="868">
                 <coordinates>-104.51,37.17,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="615">
+        <Placemark id="871">
             <name>Trenton NJ</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="614">
+            <styleUrl>#776</styleUrl>
+            <Point id="870">
                 <coordinates>-74.77,40.23,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="617">
+        <Placemark id="873">
             <name>Traverse City MI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="616">
+            <styleUrl>#776</styleUrl>
+            <Point id="872">
                 <coordinates>-85.63,44.76,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="619">
+        <Placemark id="875">
             <name>Toronto ON</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="618">
+            <styleUrl>#776</styleUrl>
+            <Point id="874">
                 <coordinates>-79.38,43.65,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="621">
+        <Placemark id="877">
             <name>Topeka KS</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="620">
+            <styleUrl>#776</styleUrl>
+            <Point id="876">
                 <coordinates>-95.67,39.05,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="623">
+        <Placemark id="879">
             <name>Toledo OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="622">
+            <styleUrl>#776</styleUrl>
+            <Point id="878">
                 <coordinates>-83.54,41.65,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="625">
+        <Placemark id="881">
             <name>Texarkana TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="624">
+            <styleUrl>#776</styleUrl>
+            <Point id="880">
                 <coordinates>-94.05,33.43,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="627">
+        <Placemark id="883">
             <name>Terre Haute IN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="626">
+            <styleUrl>#776</styleUrl>
+            <Point id="882">
                 <coordinates>-87.41,39.47,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="629">
+        <Placemark id="885">
             <name>Tampa FL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="628">
+            <styleUrl>#776</styleUrl>
+            <Point id="884">
                 <coordinates>-82.45,27.95,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="631">
+        <Placemark id="887">
             <name>Tallahassee FL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="630">
+            <styleUrl>#776</styleUrl>
+            <Point id="886">
                 <coordinates>-84.28,30.45,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="633">
+        <Placemark id="889">
             <name>Tacoma WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="632">
+            <styleUrl>#776</styleUrl>
+            <Point id="888">
                 <coordinates>-122.43,47.24,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="635">
+        <Placemark id="891">
             <name>Syracuse NY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="634">
+            <styleUrl>#776</styleUrl>
+            <Point id="890">
                 <coordinates>-76.15,43.05,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="637">
+        <Placemark id="893">
             <name>Swainsboro GA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="636">
+            <styleUrl>#776</styleUrl>
+            <Point id="892">
                 <coordinates>-82.34,32.6,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="639">
+        <Placemark id="895">
             <name>Sumter SC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="638">
+            <styleUrl>#776</styleUrl>
+            <Point id="894">
                 <coordinates>-80.35,33.92,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="641">
+        <Placemark id="897">
             <name>Stroudsburg PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="640">
+            <styleUrl>#776</styleUrl>
+            <Point id="896">
                 <coordinates>-75.19,40.99,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="643">
+        <Placemark id="899">
             <name>Stockton CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="642">
+            <styleUrl>#776</styleUrl>
+            <Point id="898">
                 <coordinates>-121.29,37.96,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="645">
+        <Placemark id="901">
             <name>Stevens Point WI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="644">
+            <styleUrl>#776</styleUrl>
+            <Point id="900">
                 <coordinates>-89.57,44.52,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="647">
+        <Placemark id="903">
             <name>Steubenville OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="646">
+            <styleUrl>#776</styleUrl>
+            <Point id="902">
                 <coordinates>-80.62,40.36,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="649">
+        <Placemark id="905">
             <name>Sterling CO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="648">
+            <styleUrl>#776</styleUrl>
+            <Point id="904">
                 <coordinates>-103.22,40.62,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="651">
+        <Placemark id="907">
             <name>Staunton VA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="650">
+            <styleUrl>#776</styleUrl>
+            <Point id="906">
                 <coordinates>-79.07,38.15,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="653">
+        <Placemark id="909">
             <name>Springfield OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="652">
+            <styleUrl>#776</styleUrl>
+            <Point id="908">
                 <coordinates>-83.81,39.92,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="655">
+        <Placemark id="911">
             <name>Springfield MO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="654">
+            <styleUrl>#776</styleUrl>
+            <Point id="910">
                 <coordinates>-93.29,37.22,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="657">
+        <Placemark id="913">
             <name>Springfield MA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="656">
+            <styleUrl>#776</styleUrl>
+            <Point id="912">
                 <coordinates>-72.59,42.1,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="659">
+        <Placemark id="915">
             <name>Springfield IL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="658">
+            <styleUrl>#776</styleUrl>
+            <Point id="914">
                 <coordinates>-89.65,39.8,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="661">
+        <Placemark id="917">
             <name>Spokane WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="660">
+            <styleUrl>#776</styleUrl>
+            <Point id="916">
                 <coordinates>-117.41,47.67,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="663">
+        <Placemark id="919">
             <name>South Bend IN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="662">
+            <styleUrl>#776</styleUrl>
+            <Point id="918">
                 <coordinates>-86.25,41.68,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="665">
+        <Placemark id="921">
             <name>Sioux Falls SD</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="664">
+            <styleUrl>#776</styleUrl>
+            <Point id="920">
                 <coordinates>-96.73,43.54,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="667">
+        <Placemark id="923">
             <name>Sioux City IA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="666">
+            <styleUrl>#776</styleUrl>
+            <Point id="922">
                 <coordinates>-96.39,42.49,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="669">
+        <Placemark id="925">
             <name>Shreveport LA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="668">
+            <styleUrl>#776</styleUrl>
+            <Point id="924">
                 <coordinates>-93.75,32.51,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="671">
+        <Placemark id="927">
             <name>Sherman TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="670">
+            <styleUrl>#776</styleUrl>
+            <Point id="926">
                 <coordinates>-96.61,33.64,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="673">
+        <Placemark id="929">
             <name>Sheridan WY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="672">
+            <styleUrl>#776</styleUrl>
+            <Point id="928">
                 <coordinates>-106.96,44.8,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="675">
+        <Placemark id="931">
             <name>Seminole OK</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="674">
+            <styleUrl>#776</styleUrl>
+            <Point id="930">
                 <coordinates>-96.68,35.23,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="677">
+        <Placemark id="933">
             <name>Selma AL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="676">
+            <styleUrl>#776</styleUrl>
+            <Point id="932">
                 <coordinates>-87.02,32.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="679">
+        <Placemark id="935">
             <name>Sedalia MO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="678">
+            <styleUrl>#776</styleUrl>
+            <Point id="934">
                 <coordinates>-93.23,38.71,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="681">
+        <Placemark id="937">
             <name>Seattle WA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="680">
+            <styleUrl>#776</styleUrl>
+            <Point id="936">
                 <coordinates>-122.33,47.6,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="683">
+        <Placemark id="939">
             <name>Scranton PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="682">
+            <styleUrl>#776</styleUrl>
+            <Point id="938">
                 <coordinates>-75.67,41.41,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="685">
+        <Placemark id="941">
             <name>Scottsbluff NE</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="684">
+            <styleUrl>#776</styleUrl>
+            <Point id="940">
                 <coordinates>-103.66,41.87,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="687">
+        <Placemark id="943">
             <name>Schenectady NY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="686">
+            <styleUrl>#776</styleUrl>
+            <Point id="942">
                 <coordinates>-73.95,42.82,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="689">
+        <Placemark id="945">
             <name>Savannah GA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="688">
+            <styleUrl>#776</styleUrl>
+            <Point id="944">
                 <coordinates>-81.09,32.08,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="691">
+        <Placemark id="947">
             <name>Sault Sainte Marie MI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="690">
+            <styleUrl>#776</styleUrl>
+            <Point id="946">
                 <coordinates>-84.35,46.49,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="693">
+        <Placemark id="949">
             <name>Sarasota FL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="692">
+            <styleUrl>#776</styleUrl>
+            <Point id="948">
                 <coordinates>-82.53,27.34,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="695">
+        <Placemark id="951">
             <name>Santa Rosa CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="694">
+            <styleUrl>#776</styleUrl>
+            <Point id="950">
                 <coordinates>-122.72,38.44,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="697">
+        <Placemark id="953">
             <name>Santa Fe NM</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="696">
+            <styleUrl>#776</styleUrl>
+            <Point id="952">
                 <coordinates>-105.95,35.68,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="699">
+        <Placemark id="955">
             <name>Santa Barbara CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="698">
+            <styleUrl>#776</styleUrl>
+            <Point id="954">
                 <coordinates>-119.7,34.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="701">
+        <Placemark id="957">
             <name>Santa Ana CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="700">
+            <styleUrl>#776</styleUrl>
+            <Point id="956">
                 <coordinates>-117.87,33.76,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="703">
+        <Placemark id="959">
             <name>San Jose CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="702">
+            <styleUrl>#776</styleUrl>
+            <Point id="958">
                 <coordinates>-121.88,37.34,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="705">
+        <Placemark id="961">
             <name>San Francisco CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="704">
+            <styleUrl>#776</styleUrl>
+            <Point id="960">
                 <coordinates>-122.42,37.78,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="707">
+        <Placemark id="963">
             <name>Sandusky OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="706">
+            <styleUrl>#776</styleUrl>
+            <Point id="962">
                 <coordinates>-82.71,41.45,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="709">
+        <Placemark id="965">
             <name>San Diego CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="708">
+            <styleUrl>#776</styleUrl>
+            <Point id="964">
                 <coordinates>-117.15,32.71,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="711">
+        <Placemark id="967">
             <name>San Bernardino CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="710">
+            <styleUrl>#776</styleUrl>
+            <Point id="966">
                 <coordinates>-117.31,34.11,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="713">
+        <Placemark id="969">
             <name>San Antonio TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="712">
+            <styleUrl>#776</styleUrl>
+            <Point id="968">
                 <coordinates>-98.5,29.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="715">
+        <Placemark id="971">
             <name>San Angelo TX</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="714">
+            <styleUrl>#776</styleUrl>
+            <Point id="970">
                 <coordinates>-100.44,31.46,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="717">
+        <Placemark id="973">
             <name>Salt Lake City UT</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="716">
+            <styleUrl>#776</styleUrl>
+            <Point id="972">
                 <coordinates>-111.88,40.76,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="719">
+        <Placemark id="975">
             <name>Salisbury MD</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="718">
+            <styleUrl>#776</styleUrl>
+            <Point id="974">
                 <coordinates>-75.6,38.37,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="721">
+        <Placemark id="977">
             <name>Salinas CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="720">
+            <styleUrl>#776</styleUrl>
+            <Point id="976">
                 <coordinates>-121.65,36.67,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="723">
+        <Placemark id="979">
             <name>Salina KS</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="722">
+            <styleUrl>#776</styleUrl>
+            <Point id="978">
                 <coordinates>-97.61,38.84,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="725">
+        <Placemark id="981">
             <name>Salida CO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="724">
+            <styleUrl>#776</styleUrl>
+            <Point id="980">
                 <coordinates>-106.0,38.53,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="727">
+        <Placemark id="983">
             <name>Salem OR</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="726">
+            <styleUrl>#776</styleUrl>
+            <Point id="982">
                 <coordinates>-123.03,44.94,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="729">
+        <Placemark id="985">
             <name>Saint Paul MN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="728">
+            <styleUrl>#776</styleUrl>
+            <Point id="984">
                 <coordinates>-93.1,44.95,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="731">
+        <Placemark id="987">
             <name>Saint Louis MO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="730">
+            <styleUrl>#776</styleUrl>
+            <Point id="986">
                 <coordinates>-90.19,38.62,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="733">
+        <Placemark id="989">
             <name>Saint Joseph MO</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="732">
+            <styleUrl>#776</styleUrl>
+            <Point id="988">
                 <coordinates>-94.84,39.77,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="735">
+        <Placemark id="991">
             <name>Saint Joseph MI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="734">
+            <styleUrl>#776</styleUrl>
+            <Point id="990">
                 <coordinates>-86.48,42.1,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="737">
+        <Placemark id="993">
             <name>Saint Johnsbury VT</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="736">
+            <styleUrl>#776</styleUrl>
+            <Point id="992">
                 <coordinates>-72.02,44.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="739">
+        <Placemark id="995">
             <name>Saint Cloud MN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="738">
+            <styleUrl>#776</styleUrl>
+            <Point id="994">
                 <coordinates>-94.17,45.57,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="741">
+        <Placemark id="997">
             <name>Saint Augustine FL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="740">
+            <styleUrl>#776</styleUrl>
+            <Point id="996">
                 <coordinates>-81.32,29.89,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="743">
+        <Placemark id="999">
             <name>Saginaw MI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="742">
+            <styleUrl>#776</styleUrl>
+            <Point id="998">
                 <coordinates>-83.94,43.43,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="745">
+        <Placemark id="1001">
             <name>Sacramento CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="744">
+            <styleUrl>#776</styleUrl>
+            <Point id="1000">
                 <coordinates>-121.49,38.59,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="747">
+        <Placemark id="1003">
             <name>Rutland VT</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="746">
+            <styleUrl>#776</styleUrl>
+            <Point id="1002">
                 <coordinates>-72.97,43.61,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="749">
+        <Placemark id="1005">
             <name>Roswell NM</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="748">
+            <styleUrl>#776</styleUrl>
+            <Point id="1004">
                 <coordinates>-104.53,33.4,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="751">
+        <Placemark id="1007">
             <name>Rocky Mount NC</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="750">
+            <styleUrl>#776</styleUrl>
+            <Point id="1006">
                 <coordinates>-77.8,35.94,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="753">
+        <Placemark id="1009">
             <name>Rock Springs WY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="752">
+            <styleUrl>#776</styleUrl>
+            <Point id="1008">
                 <coordinates>-109.23,41.59,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="755">
+        <Placemark id="1011">
             <name>Rockford IL</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="754">
+            <styleUrl>#776</styleUrl>
+            <Point id="1010">
                 <coordinates>-89.1,42.27,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="757">
+        <Placemark id="1013">
             <name>Rochester NY</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="756">
+            <styleUrl>#776</styleUrl>
+            <Point id="1012">
                 <coordinates>-77.61,43.16,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="759">
+        <Placemark id="1015">
             <name>Rochester MN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="758">
+            <styleUrl>#776</styleUrl>
+            <Point id="1014">
                 <coordinates>-92.46,44.02,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="761">
+        <Placemark id="1017">
             <name>Roanoke VA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="760">
+            <styleUrl>#776</styleUrl>
+            <Point id="1016">
                 <coordinates>-79.94,37.27,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="763">
+        <Placemark id="1019">
             <name>Richmond VA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="762">
+            <styleUrl>#776</styleUrl>
+            <Point id="1018">
                 <coordinates>-77.45,37.54,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="765">
+        <Placemark id="1021">
             <name>Richmond IN</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="764">
+            <styleUrl>#776</styleUrl>
+            <Point id="1020">
                 <coordinates>-84.89,39.83,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="767">
+        <Placemark id="1023">
             <name>Richfield UT</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="766">
+            <styleUrl>#776</styleUrl>
+            <Point id="1022">
                 <coordinates>-112.09,38.77,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="769">
+        <Placemark id="1025">
             <name>Rhinelander WI</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="768">
+            <styleUrl>#776</styleUrl>
+            <Point id="1024">
                 <coordinates>-89.42,45.64,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="771">
+        <Placemark id="1027">
             <name>Reno NV</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="770">
+            <styleUrl>#776</styleUrl>
+            <Point id="1026">
                 <coordinates>-119.81,39.52,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="773">
+        <Placemark id="1029">
             <name>Regina SK</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="772">
+            <styleUrl>#776</styleUrl>
+            <Point id="1028">
                 <coordinates>-104.65,50.42,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="775">
+        <Placemark id="1031">
             <name>Red Bluff CA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="774">
+            <styleUrl>#776</styleUrl>
+            <Point id="1030">
                 <coordinates>-122.24,40.18,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="777">
+        <Placemark id="1033">
             <name>Reading PA</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="776">
+            <styleUrl>#776</styleUrl>
+            <Point id="1032">
                 <coordinates>-75.93,40.33,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="779">
+        <Placemark id="1035">
             <name>Ravenna OH</name>
-            <styleUrl>#520</styleUrl>
-            <Point id="778">
+            <styleUrl>#776</styleUrl>
+            <Point id="1034">
                 <coordinates>-81.24,41.16,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="781">
+        <Placemark id="1037">
             <name>Youngstown OH to Tucson AZ</name>
-            <LineString id="780">
+            <styleUrl>#1038</styleUrl>
+            <LineString id="1036">
                 <coordinates>-80.65,41.1,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="783">
+        <Placemark id="1041">
             <name>Yankton SD to Tucson AZ</name>
-            <LineString id="782">
+            <styleUrl>#1042</styleUrl>
+            <LineString id="1040">
                 <coordinates>-97.39,42.88,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="785">
+        <Placemark id="1045">
             <name>Yakima WA to Tucson AZ</name>
-            <LineString id="784">
+            <styleUrl>#1046</styleUrl>
+            <LineString id="1044">
                 <coordinates>-120.51,46.6,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="787">
+        <Placemark id="1049">
             <name>Worcester MA to Tucson AZ</name>
-            <LineString id="786">
+            <styleUrl>#1050</styleUrl>
+            <LineString id="1048">
                 <coordinates>-71.8,42.27,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="789">
+        <Placemark id="1053">
             <name>Wisconsin Dells WI to Tucson AZ</name>
-            <LineString id="788">
+            <styleUrl>#1054</styleUrl>
+            <LineString id="1052">
                 <coordinates>-89.77,43.63,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="791">
+        <Placemark id="1057">
             <name>Winston-Salem NC to Tucson AZ</name>
-            <LineString id="790">
+            <styleUrl>#1058</styleUrl>
+            <LineString id="1056">
                 <coordinates>-80.25,36.1,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="793">
+        <Placemark id="1061">
             <name>Winnipeg MB to Tucson AZ</name>
-            <LineString id="792">
+            <styleUrl>#1062</styleUrl>
+            <LineString id="1060">
                 <coordinates>-97.15,49.88,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="795">
+        <Placemark id="1065">
             <name>Winchester VA to Tucson AZ</name>
-            <LineString id="794">
+            <styleUrl>#1066</styleUrl>
+            <LineString id="1064">
                 <coordinates>-78.16,39.19,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="797">
+        <Placemark id="1069">
             <name>Wilmington NC to Tucson AZ</name>
-            <LineString id="796">
+            <styleUrl>#1070</styleUrl>
+            <LineString id="1068">
                 <coordinates>-77.92,34.24,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="799">
+        <Placemark id="1073">
             <name>Wilmington DE to Tucson AZ</name>
-            <LineString id="798">
+            <styleUrl>#1074</styleUrl>
+            <LineString id="1072">
                 <coordinates>-75.55,39.75,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="801">
+        <Placemark id="1077">
             <name>Williston ND to Tucson AZ</name>
-            <LineString id="800">
+            <styleUrl>#1078</styleUrl>
+            <LineString id="1076">
                 <coordinates>-103.62,48.15,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="803">
+        <Placemark id="1081">
             <name>Williamsport PA to Tucson AZ</name>
-            <LineString id="802">
+            <styleUrl>#1082</styleUrl>
+            <LineString id="1080">
                 <coordinates>-77.0,41.25,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="805">
+        <Placemark id="1085">
             <name>Williamson WV to Tucson AZ</name>
-            <LineString id="804">
+            <styleUrl>#1086</styleUrl>
+            <LineString id="1084">
                 <coordinates>-82.28,37.68,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="807">
+        <Placemark id="1089">
             <name>Wichita Falls TX to Tucson AZ</name>
-            <LineString id="806">
+            <styleUrl>#1090</styleUrl>
+            <LineString id="1088">
                 <coordinates>-98.49,33.9,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="809">
+        <Placemark id="1093">
             <name>Wichita KS to Tucson AZ</name>
-            <LineString id="808">
+            <styleUrl>#1094</styleUrl>
+            <LineString id="1092">
                 <coordinates>-97.34,37.69,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="811">
+        <Placemark id="1097">
             <name>Wheeling WV to Tucson AZ</name>
-            <LineString id="810">
+            <styleUrl>#1098</styleUrl>
+            <LineString id="1096">
                 <coordinates>-80.72,40.07,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="813">
+        <Placemark id="1101">
             <name>West Palm Beach FL to Tucson AZ</name>
-            <LineString id="812">
+            <styleUrl>#1102</styleUrl>
+            <LineString id="1100">
                 <coordinates>-80.05,26.72,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="815">
+        <Placemark id="1105">
             <name>Wenatchee WA to Tucson AZ</name>
-            <LineString id="814">
+            <styleUrl>#1106</styleUrl>
+            <LineString id="1104">
                 <coordinates>-120.32,47.42,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="817">
+        <Placemark id="1109">
             <name>Weed CA to Tucson AZ</name>
-            <LineString id="816">
+            <styleUrl>#1110</styleUrl>
+            <LineString id="1108">
                 <coordinates>-122.39,41.42,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="819">
+        <Placemark id="1113">
             <name>Waycross GA to Tucson AZ</name>
-            <LineString id="818">
+            <styleUrl>#1114</styleUrl>
+            <LineString id="1112">
                 <coordinates>-82.35,31.22,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="821">
+        <Placemark id="1117">
             <name>Wausau WI to Tucson AZ</name>
-            <LineString id="820">
+            <styleUrl>#1118</styleUrl>
+            <LineString id="1116">
                 <coordinates>-89.64,44.96,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="823">
+        <Placemark id="1121">
             <name>Waukegan IL to Tucson AZ</name>
-            <LineString id="822">
+            <styleUrl>#1122</styleUrl>
+            <LineString id="1120">
                 <coordinates>-87.83,42.36,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="825">
+        <Placemark id="1125">
             <name>Watertown SD to Tucson AZ</name>
-            <LineString id="824">
+            <styleUrl>#1126</styleUrl>
+            <LineString id="1124">
                 <coordinates>-97.11,44.9,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="827">
+        <Placemark id="1129">
             <name>Watertown NY to Tucson AZ</name>
-            <LineString id="826">
+            <styleUrl>#1130</styleUrl>
+            <LineString id="1128">
                 <coordinates>-75.92,43.98,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="829">
+        <Placemark id="1133">
             <name>Waterloo IA to Tucson AZ</name>
-            <LineString id="828">
+            <styleUrl>#1134</styleUrl>
+            <LineString id="1132">
                 <coordinates>-92.34,42.5,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="831">
+        <Placemark id="1137">
             <name>Waterbury CT to Tucson AZ</name>
-            <LineString id="830">
+            <styleUrl>#1138</styleUrl>
+            <LineString id="1136">
                 <coordinates>-73.05,41.55,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="833">
+        <Placemark id="1141">
             <name>Washington DC to Tucson AZ</name>
-            <LineString id="832">
+            <styleUrl>#1142</styleUrl>
+            <LineString id="1140">
                 <coordinates>-77.03,38.89,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="835">
+        <Placemark id="1145">
             <name>Warren PA to Tucson AZ</name>
-            <LineString id="834">
+            <styleUrl>#1146</styleUrl>
+            <LineString id="1144">
                 <coordinates>-79.14,41.85,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="837">
+        <Placemark id="1149">
             <name>Walla Walla WA to Tucson AZ</name>
-            <LineString id="836">
+            <styleUrl>#1150</styleUrl>
+            <LineString id="1148">
                 <coordinates>-118.33,46.07,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="839">
+        <Placemark id="1153">
             <name>Waco TX to Tucson AZ</name>
-            <LineString id="838">
+            <styleUrl>#1154</styleUrl>
+            <LineString id="1152">
                 <coordinates>-97.14,31.55,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="841">
+        <Placemark id="1157">
             <name>Vincennes IN to Tucson AZ</name>
-            <LineString id="840">
+            <styleUrl>#1158</styleUrl>
+            <LineString id="1156">
                 <coordinates>-87.53,38.68,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="843">
+        <Placemark id="1161">
             <name>Victoria TX to Tucson AZ</name>
-            <LineString id="842">
+            <styleUrl>#1162</styleUrl>
+            <LineString id="1160">
                 <coordinates>-97.01,28.81,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="845">
+        <Placemark id="1165">
             <name>Vicksburg MS to Tucson AZ</name>
-            <LineString id="844">
+            <styleUrl>#1166</styleUrl>
+            <LineString id="1164">
                 <coordinates>-90.88,32.35,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="847">
+        <Placemark id="1169">
             <name>Vancouver BC to Tucson AZ</name>
-            <LineString id="846">
+            <styleUrl>#1170</styleUrl>
+            <LineString id="1168">
                 <coordinates>-123.12,49.27,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="849">
+        <Placemark id="1173">
             <name>Valley City ND to Tucson AZ</name>
-            <LineString id="848">
+            <styleUrl>#1174</styleUrl>
+            <LineString id="1172">
                 <coordinates>-98.01,46.92,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="851">
+        <Placemark id="1177">
             <name>Valdosta GA to Tucson AZ</name>
-            <LineString id="850">
+            <styleUrl>#1178</styleUrl>
+            <LineString id="1176">
                 <coordinates>-83.28,30.83,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="853">
+        <Placemark id="1181">
             <name>Utica NY to Tucson AZ</name>
-            <LineString id="852">
+            <styleUrl>#1182</styleUrl>
+            <LineString id="1180">
                 <coordinates>-75.23,43.11,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="855">
+        <Placemark id="1185">
             <name>Uniontown PA to Tucson AZ</name>
-            <LineString id="854">
+            <styleUrl>#1186</styleUrl>
+            <LineString id="1184">
                 <coordinates>-79.73,39.9,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="857">
+        <Placemark id="1189">
             <name>Tyler TX to Tucson AZ</name>
-            <LineString id="856">
+            <styleUrl>#1190</styleUrl>
+            <LineString id="1188">
                 <coordinates>-95.3,32.35,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="859">
+        <Placemark id="1193">
             <name>Twin Falls ID to Tucson AZ</name>
-            <LineString id="858">
+            <styleUrl>#1194</styleUrl>
+            <LineString id="1192">
                 <coordinates>-114.47,42.56,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="861">
+        <Placemark id="1197">
             <name>Tuscaloosa AL to Tucson AZ</name>
-            <LineString id="860">
+            <styleUrl>#1198</styleUrl>
+            <LineString id="1196">
                 <coordinates>-87.57,33.21,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="863">
+        <Placemark id="1201">
             <name>Tupelo MS to Tucson AZ</name>
-            <LineString id="862">
+            <styleUrl>#1202</styleUrl>
+            <LineString id="1200">
                 <coordinates>-88.71,34.26,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="865">
+        <Placemark id="1205">
             <name>Tulsa OK to Tucson AZ</name>
-            <LineString id="864">
+            <styleUrl>#1206</styleUrl>
+            <LineString id="1204">
                 <coordinates>-95.91,36.16,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="867">
+        <Placemark id="1209">
             <name>Tucson AZ to Tucson AZ</name>
-            <LineString id="866">
+            <styleUrl>#1210</styleUrl>
+            <LineString id="1208">
                 <coordinates>-110.97,32.22,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="869">
+        <Placemark id="1213">
             <name>Trinidad CO to Tucson AZ</name>
-            <LineString id="868">
+            <styleUrl>#1214</styleUrl>
+            <LineString id="1212">
                 <coordinates>-104.51,37.17,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="871">
+        <Placemark id="1217">
             <name>Trenton NJ to Tucson AZ</name>
-            <LineString id="870">
+            <styleUrl>#1218</styleUrl>
+            <LineString id="1216">
                 <coordinates>-74.77,40.23,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="873">
+        <Placemark id="1221">
             <name>Traverse City MI to Tucson AZ</name>
-            <LineString id="872">
+            <styleUrl>#1222</styleUrl>
+            <LineString id="1220">
                 <coordinates>-85.63,44.76,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="875">
+        <Placemark id="1225">
             <name>Toronto ON to Tucson AZ</name>
-            <LineString id="874">
+            <styleUrl>#1226</styleUrl>
+            <LineString id="1224">
                 <coordinates>-79.38,43.65,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="877">
+        <Placemark id="1229">
             <name>Topeka KS to Tucson AZ</name>
-            <LineString id="876">
+            <styleUrl>#1230</styleUrl>
+            <LineString id="1228">
                 <coordinates>-95.67,39.05,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="879">
+        <Placemark id="1233">
             <name>Toledo OH to Tucson AZ</name>
-            <LineString id="878">
+            <styleUrl>#1234</styleUrl>
+            <LineString id="1232">
                 <coordinates>-83.54,41.65,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="881">
+        <Placemark id="1237">
             <name>Texarkana TX to Tucson AZ</name>
-            <LineString id="880">
+            <styleUrl>#1238</styleUrl>
+            <LineString id="1236">
                 <coordinates>-94.05,33.43,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="883">
+        <Placemark id="1241">
             <name>Terre Haute IN to Tucson AZ</name>
-            <LineString id="882">
+            <styleUrl>#1242</styleUrl>
+            <LineString id="1240">
                 <coordinates>-87.41,39.47,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="885">
+        <Placemark id="1245">
             <name>Tampa FL to Tucson AZ</name>
-            <LineString id="884">
+            <styleUrl>#1246</styleUrl>
+            <LineString id="1244">
                 <coordinates>-82.45,27.95,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="887">
+        <Placemark id="1249">
             <name>Tallahassee FL to Tucson AZ</name>
-            <LineString id="886">
+            <styleUrl>#1250</styleUrl>
+            <LineString id="1248">
                 <coordinates>-84.28,30.45,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="889">
+        <Placemark id="1253">
             <name>Tacoma WA to Tucson AZ</name>
-            <LineString id="888">
+            <styleUrl>#1254</styleUrl>
+            <LineString id="1252">
                 <coordinates>-122.43,47.24,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="891">
+        <Placemark id="1257">
             <name>Syracuse NY to Tucson AZ</name>
-            <LineString id="890">
+            <styleUrl>#1258</styleUrl>
+            <LineString id="1256">
                 <coordinates>-76.15,43.05,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="893">
+        <Placemark id="1261">
             <name>Swainsboro GA to Tucson AZ</name>
-            <LineString id="892">
+            <styleUrl>#1262</styleUrl>
+            <LineString id="1260">
                 <coordinates>-82.34,32.6,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="895">
+        <Placemark id="1265">
             <name>Sumter SC to Tucson AZ</name>
-            <LineString id="894">
+            <styleUrl>#1266</styleUrl>
+            <LineString id="1264">
                 <coordinates>-80.35,33.92,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="897">
+        <Placemark id="1269">
             <name>Stroudsburg PA to Tucson AZ</name>
-            <LineString id="896">
+            <styleUrl>#1270</styleUrl>
+            <LineString id="1268">
                 <coordinates>-75.19,40.99,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="899">
+        <Placemark id="1273">
             <name>Stockton CA to Tucson AZ</name>
-            <LineString id="898">
+            <styleUrl>#1274</styleUrl>
+            <LineString id="1272">
                 <coordinates>-121.29,37.96,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="901">
+        <Placemark id="1277">
             <name>Stevens Point WI to Tucson AZ</name>
-            <LineString id="900">
+            <styleUrl>#1278</styleUrl>
+            <LineString id="1276">
                 <coordinates>-89.57,44.52,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="903">
+        <Placemark id="1281">
             <name>Steubenville OH to Tucson AZ</name>
-            <LineString id="902">
+            <styleUrl>#1282</styleUrl>
+            <LineString id="1280">
                 <coordinates>-80.62,40.36,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="905">
+        <Placemark id="1285">
             <name>Sterling CO to Tucson AZ</name>
-            <LineString id="904">
+            <styleUrl>#1286</styleUrl>
+            <LineString id="1284">
                 <coordinates>-103.22,40.62,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="907">
+        <Placemark id="1289">
             <name>Staunton VA to Tucson AZ</name>
-            <LineString id="906">
+            <styleUrl>#1290</styleUrl>
+            <LineString id="1288">
                 <coordinates>-79.07,38.15,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="909">
+        <Placemark id="1293">
             <name>Springfield OH to Tucson AZ</name>
-            <LineString id="908">
+            <styleUrl>#1294</styleUrl>
+            <LineString id="1292">
                 <coordinates>-83.81,39.92,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="911">
+        <Placemark id="1297">
             <name>Springfield MO to Tucson AZ</name>
-            <LineString id="910">
+            <styleUrl>#1298</styleUrl>
+            <LineString id="1296">
                 <coordinates>-93.29,37.22,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="913">
+        <Placemark id="1301">
             <name>Springfield MA to Tucson AZ</name>
-            <LineString id="912">
+            <styleUrl>#1302</styleUrl>
+            <LineString id="1300">
                 <coordinates>-72.59,42.1,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="915">
+        <Placemark id="1305">
             <name>Springfield IL to Tucson AZ</name>
-            <LineString id="914">
+            <styleUrl>#1306</styleUrl>
+            <LineString id="1304">
                 <coordinates>-89.65,39.8,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="917">
+        <Placemark id="1309">
             <name>Spokane WA to Tucson AZ</name>
-            <LineString id="916">
+            <styleUrl>#1310</styleUrl>
+            <LineString id="1308">
                 <coordinates>-117.41,47.67,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="919">
+        <Placemark id="1313">
             <name>South Bend IN to Tucson AZ</name>
-            <LineString id="918">
+            <styleUrl>#1314</styleUrl>
+            <LineString id="1312">
                 <coordinates>-86.25,41.68,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="921">
+        <Placemark id="1317">
             <name>Sioux Falls SD to Tucson AZ</name>
-            <LineString id="920">
+            <styleUrl>#1318</styleUrl>
+            <LineString id="1316">
                 <coordinates>-96.73,43.54,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="923">
+        <Placemark id="1321">
             <name>Sioux City IA to Tucson AZ</name>
-            <LineString id="922">
+            <styleUrl>#1322</styleUrl>
+            <LineString id="1320">
                 <coordinates>-96.39,42.49,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="925">
+        <Placemark id="1325">
             <name>Shreveport LA to Tucson AZ</name>
-            <LineString id="924">
+            <styleUrl>#1326</styleUrl>
+            <LineString id="1324">
                 <coordinates>-93.75,32.51,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="927">
+        <Placemark id="1329">
             <name>Sherman TX to Tucson AZ</name>
-            <LineString id="926">
+            <styleUrl>#1330</styleUrl>
+            <LineString id="1328">
                 <coordinates>-96.61,33.64,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="929">
+        <Placemark id="1333">
             <name>Sheridan WY to Tucson AZ</name>
-            <LineString id="928">
+            <styleUrl>#1334</styleUrl>
+            <LineString id="1332">
                 <coordinates>-106.96,44.8,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="931">
+        <Placemark id="1337">
             <name>Seminole OK to Tucson AZ</name>
-            <LineString id="930">
+            <styleUrl>#1338</styleUrl>
+            <LineString id="1336">
                 <coordinates>-96.68,35.23,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="933">
+        <Placemark id="1341">
             <name>Selma AL to Tucson AZ</name>
-            <LineString id="932">
+            <styleUrl>#1342</styleUrl>
+            <LineString id="1340">
                 <coordinates>-87.02,32.42,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="935">
+        <Placemark id="1345">
             <name>Sedalia MO to Tucson AZ</name>
-            <LineString id="934">
+            <styleUrl>#1346</styleUrl>
+            <LineString id="1344">
                 <coordinates>-93.23,38.71,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="937">
+        <Placemark id="1349">
             <name>Seattle WA to Tucson AZ</name>
-            <LineString id="936">
+            <styleUrl>#1350</styleUrl>
+            <LineString id="1348">
                 <coordinates>-122.33,47.6,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="939">
+        <Placemark id="1353">
             <name>Scranton PA to Tucson AZ</name>
-            <LineString id="938">
+            <styleUrl>#1354</styleUrl>
+            <LineString id="1352">
                 <coordinates>-75.67,41.41,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="941">
+        <Placemark id="1357">
             <name>Scottsbluff NE to Tucson AZ</name>
-            <LineString id="940">
+            <styleUrl>#1358</styleUrl>
+            <LineString id="1356">
                 <coordinates>-103.66,41.87,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="943">
+        <Placemark id="1361">
             <name>Schenectady NY to Tucson AZ</name>
-            <LineString id="942">
+            <styleUrl>#1362</styleUrl>
+            <LineString id="1360">
                 <coordinates>-73.95,42.82,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="945">
+        <Placemark id="1365">
             <name>Savannah GA to Tucson AZ</name>
-            <LineString id="944">
+            <styleUrl>#1366</styleUrl>
+            <LineString id="1364">
                 <coordinates>-81.09,32.08,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="947">
+        <Placemark id="1369">
             <name>Sault Sainte Marie MI to Tucson AZ</name>
-            <LineString id="946">
+            <styleUrl>#1370</styleUrl>
+            <LineString id="1368">
                 <coordinates>-84.35,46.49,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="949">
+        <Placemark id="1373">
             <name>Sarasota FL to Tucson AZ</name>
-            <LineString id="948">
+            <styleUrl>#1374</styleUrl>
+            <LineString id="1372">
                 <coordinates>-82.53,27.34,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="951">
+        <Placemark id="1377">
             <name>Santa Rosa CA to Tucson AZ</name>
-            <LineString id="950">
+            <styleUrl>#1378</styleUrl>
+            <LineString id="1376">
                 <coordinates>-122.72,38.44,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="953">
+        <Placemark id="1381">
             <name>Santa Fe NM to Tucson AZ</name>
-            <LineString id="952">
+            <styleUrl>#1382</styleUrl>
+            <LineString id="1380">
                 <coordinates>-105.95,35.68,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="955">
+        <Placemark id="1385">
             <name>Santa Barbara CA to Tucson AZ</name>
-            <LineString id="954">
+            <styleUrl>#1386</styleUrl>
+            <LineString id="1384">
                 <coordinates>-119.7,34.42,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="957">
+        <Placemark id="1389">
             <name>Santa Ana CA to Tucson AZ</name>
-            <LineString id="956">
+            <styleUrl>#1390</styleUrl>
+            <LineString id="1388">
                 <coordinates>-117.87,33.76,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="959">
+        <Placemark id="1393">
             <name>San Jose CA to Tucson AZ</name>
-            <LineString id="958">
+            <styleUrl>#1394</styleUrl>
+            <LineString id="1392">
                 <coordinates>-121.88,37.34,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="961">
+        <Placemark id="1397">
             <name>San Francisco CA to Tucson AZ</name>
-            <LineString id="960">
+            <styleUrl>#1398</styleUrl>
+            <LineString id="1396">
                 <coordinates>-122.42,37.78,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="963">
+        <Placemark id="1401">
             <name>Sandusky OH to Tucson AZ</name>
-            <LineString id="962">
+            <styleUrl>#1402</styleUrl>
+            <LineString id="1400">
                 <coordinates>-82.71,41.45,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="965">
+        <Placemark id="1405">
             <name>San Diego CA to Tucson AZ</name>
-            <LineString id="964">
+            <styleUrl>#1406</styleUrl>
+            <LineString id="1404">
                 <coordinates>-117.15,32.71,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="967">
+        <Placemark id="1409">
             <name>San Bernardino CA to Tucson AZ</name>
-            <LineString id="966">
+            <styleUrl>#1410</styleUrl>
+            <LineString id="1408">
                 <coordinates>-117.31,34.11,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="969">
+        <Placemark id="1413">
             <name>San Antonio TX to Tucson AZ</name>
-            <LineString id="968">
+            <styleUrl>#1414</styleUrl>
+            <LineString id="1412">
                 <coordinates>-98.5,29.42,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="971">
+        <Placemark id="1417">
             <name>San Angelo TX to Tucson AZ</name>
-            <LineString id="970">
+            <styleUrl>#1418</styleUrl>
+            <LineString id="1416">
                 <coordinates>-100.44,31.46,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="973">
+        <Placemark id="1421">
             <name>Salt Lake City UT to Tucson AZ</name>
-            <LineString id="972">
+            <styleUrl>#1422</styleUrl>
+            <LineString id="1420">
                 <coordinates>-111.88,40.76,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="975">
+        <Placemark id="1425">
             <name>Salisbury MD to Tucson AZ</name>
-            <LineString id="974">
+            <styleUrl>#1426</styleUrl>
+            <LineString id="1424">
                 <coordinates>-75.6,38.37,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="977">
+        <Placemark id="1429">
             <name>Salinas CA to Tucson AZ</name>
-            <LineString id="976">
+            <styleUrl>#1430</styleUrl>
+            <LineString id="1428">
                 <coordinates>-121.65,36.67,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="979">
+        <Placemark id="1433">
             <name>Salina KS to Tucson AZ</name>
-            <LineString id="978">
+            <styleUrl>#1434</styleUrl>
+            <LineString id="1432">
                 <coordinates>-97.61,38.84,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="981">
+        <Placemark id="1437">
             <name>Salida CO to Tucson AZ</name>
-            <LineString id="980">
+            <styleUrl>#1438</styleUrl>
+            <LineString id="1436">
                 <coordinates>-106.0,38.53,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="983">
+        <Placemark id="1441">
             <name>Salem OR to Tucson AZ</name>
-            <LineString id="982">
+            <styleUrl>#1442</styleUrl>
+            <LineString id="1440">
                 <coordinates>-123.03,44.94,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="985">
+        <Placemark id="1445">
             <name>Saint Paul MN to Tucson AZ</name>
-            <LineString id="984">
+            <styleUrl>#1446</styleUrl>
+            <LineString id="1444">
                 <coordinates>-93.1,44.95,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="987">
+        <Placemark id="1449">
             <name>Saint Louis MO to Tucson AZ</name>
-            <LineString id="986">
+            <styleUrl>#1450</styleUrl>
+            <LineString id="1448">
                 <coordinates>-90.19,38.62,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="989">
+        <Placemark id="1453">
             <name>Saint Joseph MO to Tucson AZ</name>
-            <LineString id="988">
+            <styleUrl>#1454</styleUrl>
+            <LineString id="1452">
                 <coordinates>-94.84,39.77,0.0 -97.34,37.69,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="991">
+        <Placemark id="1457">
             <name>Saint Joseph MI to Tucson AZ</name>
-            <LineString id="990">
+            <styleUrl>#1458</styleUrl>
+            <LineString id="1456">
                 <coordinates>-86.48,42.1,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="993">
+        <Placemark id="1461">
             <name>Saint Johnsbury VT to Tucson AZ</name>
-            <LineString id="992">
+            <styleUrl>#1462</styleUrl>
+            <LineString id="1460">
                 <coordinates>-72.02,44.42,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="995">
+        <Placemark id="1465">
             <name>Saint Cloud MN to Tucson AZ</name>
-            <LineString id="994">
+            <styleUrl>#1466</styleUrl>
+            <LineString id="1464">
                 <coordinates>-94.17,45.57,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="997">
+        <Placemark id="1469">
             <name>Saint Augustine FL to Tucson AZ</name>
-            <LineString id="996">
+            <styleUrl>#1470</styleUrl>
+            <LineString id="1468">
                 <coordinates>-81.32,29.89,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="999">
+        <Placemark id="1473">
             <name>Saginaw MI to Tucson AZ</name>
-            <LineString id="998">
+            <styleUrl>#1474</styleUrl>
+            <LineString id="1472">
                 <coordinates>-83.94,43.43,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1001">
+        <Placemark id="1477">
             <name>Sacramento CA to Tucson AZ</name>
-            <LineString id="1000">
+            <styleUrl>#1478</styleUrl>
+            <LineString id="1476">
                 <coordinates>-121.49,38.59,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1003">
+        <Placemark id="1481">
             <name>Rutland VT to Tucson AZ</name>
-            <LineString id="1002">
+            <styleUrl>#1482</styleUrl>
+            <LineString id="1480">
                 <coordinates>-72.97,43.61,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1005">
+        <Placemark id="1485">
             <name>Roswell NM to Tucson AZ</name>
-            <LineString id="1004">
+            <styleUrl>#1486</styleUrl>
+            <LineString id="1484">
                 <coordinates>-104.53,33.4,0.0 -110.97,32.22,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1007">
+        <Placemark id="1489">
             <name>Rocky Mount NC to Tucson AZ</name>
-            <LineString id="1006">
+            <styleUrl>#1490</styleUrl>
+            <LineString id="1488">
                 <coordinates>-77.8,35.94,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1009">
+        <Placemark id="1493">
             <name>Rock Springs WY to Tucson AZ</name>
-            <LineString id="1008">
+            <styleUrl>#1494</styleUrl>
+            <LineString id="1492">
                 <coordinates>-109.23,41.59,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1011">
+        <Placemark id="1497">
             <name>Rockford IL to Tucson AZ</name>
-            <LineString id="1010">
+            <styleUrl>#1498</styleUrl>
+            <LineString id="1496">
                 <coordinates>-89.1,42.27,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1013">
+        <Placemark id="1501">
             <name>Rochester NY to Tucson AZ</name>
-            <LineString id="1012">
+            <styleUrl>#1502</styleUrl>
+            <LineString id="1500">
                 <coordinates>-77.61,43.16,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1015">
+        <Placemark id="1505">
             <name>Rochester MN to Tucson AZ</name>
-            <LineString id="1014">
+            <styleUrl>#1506</styleUrl>
+            <LineString id="1504">
                 <coordinates>-92.46,44.02,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1017">
+        <Placemark id="1509">
             <name>Roanoke VA to Tucson AZ</name>
-            <LineString id="1016">
+            <styleUrl>#1510</styleUrl>
+            <LineString id="1508">
                 <coordinates>-79.94,37.27,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1019">
+        <Placemark id="1513">
             <name>Richmond VA to Tucson AZ</name>
-            <LineString id="1018">
+            <styleUrl>#1514</styleUrl>
+            <LineString id="1512">
                 <coordinates>-77.45,37.54,0.0 -80.25,36.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1021">
+        <Placemark id="1517">
             <name>Richmond IN to Tucson AZ</name>
-            <LineString id="1020">
+            <styleUrl>#1518</styleUrl>
+            <LineString id="1516">
                 <coordinates>-84.89,39.83,0.0 -84.89,39.83,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1023">
+        <Placemark id="1521">
             <name>Richfield UT to Tucson AZ</name>
-            <LineString id="1022">
+            <styleUrl>#1522</styleUrl>
+            <LineString id="1520">
                 <coordinates>-112.09,38.77,0.0 -114.47,42.56,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1025">
+        <Placemark id="1525">
             <name>Rhinelander WI to Tucson AZ</name>
-            <LineString id="1024">
+            <styleUrl>#1526</styleUrl>
+            <LineString id="1524">
                 <coordinates>-89.42,45.64,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1027">
+        <Placemark id="1529">
             <name>Reno NV to Tucson AZ</name>
-            <LineString id="1026">
+            <styleUrl>#1530</styleUrl>
+            <LineString id="1528">
                 <coordinates>-119.81,39.52,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1029">
+        <Placemark id="1533">
             <name>Regina SK to Tucson AZ</name>
-            <LineString id="1028">
+            <styleUrl>#1534</styleUrl>
+            <LineString id="1532">
                 <coordinates>-104.65,50.42,0.0 -97.39,42.88,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1031">
+        <Placemark id="1537">
             <name>Red Bluff CA to Tucson AZ</name>
-            <LineString id="1030">
+            <styleUrl>#1538</styleUrl>
+            <LineString id="1536">
                 <coordinates>-122.24,40.18,0.0 -122.39,41.42,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1033">
+        <Placemark id="1541">
             <name>Reading PA to Tucson AZ</name>
-            <LineString id="1032">
+            <styleUrl>#1542</styleUrl>
+            <LineString id="1540">
                 <coordinates>-75.93,40.33,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="1035">
+        <Placemark id="1545">
             <name>Ravenna OH to Tucson AZ</name>
-            <LineString id="1034">
+            <styleUrl>#1546</styleUrl>
+            <LineString id="1544">
                 <coordinates>-81.24,41.16,0.0 -80.65,41.1,0.0</coordinates>
             </LineString>
         </Placemark>
